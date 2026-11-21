@@ -6,18 +6,22 @@
 
 Proyecto del curso **Interacción Humano-Computador (IHC 2026-II)** · Facultad de Ingeniería de Sistemas e Informática, **UNMSM** · **Equipo A**
 
-[![Sitio en GitHub Pages](https://img.shields.io/badge/demo-GitHub%20Pages-2ea44f?logo=github)](https://josmart04.github.io/EquipoA_ErnestoInvestingAI/)
-[![QA](https://github.com/JosMart04/EquipoA_ErnestoInvestingAI/actions/workflows/qa.yml/badge.svg)](https://github.com/JosMart04/EquipoA_ErnestoInvestingAI/actions/workflows/qa.yml)
+[![Sitio en GitHub Pages](https://img.shields.io/badge/demo-GitHub%20Pages-2ea44f?logo=github)](https://mbaernestocr-tech.github.io/ernesto-investing-ai-equipo-a/)
+[![QA](https://github.com/mbaernestocr-tech/ernesto-investing-ai-equipo-a/actions/workflows/qa.yml/badge.svg)](https://github.com/mbaernestocr-tech/ernesto-investing-ai-equipo-a/actions/workflows/qa.yml)
 [![WCAG 2.2 AA](https://img.shields.io/badge/accesibilidad-WCAG%202.2%20AA-005a9c)](#accesibilidad)
 [![i18n](https://img.shields.io/badge/idiomas-ES--PE%20%7C%20EN--US-6f42c1)](#características)
 [![Licencia](https://img.shields.io/badge/licencia-CC%20BY%204.0-lightgrey)](LICENSE)
 
-**[Abrir el sitio](https://josmart04.github.io/EquipoA_ErnestoInvestingAI/)**
+**[Abrir el sitio](https://mbaernestocr-tech.github.io/ernesto-investing-ai-equipo-a/)**
 
 </div>
 
 > [!IMPORTANT]
 > Proyecto **educativo**. Los pronósticos, carteras y backtests **no son asesoría de inversión**. El Trading y la liga son **simulados**: no se conectan cuentas ni se ejecutan órdenes reales.
+
+
+> [!NOTE]
+> **Copia propia con historial completo.** Este repositorio es una copia de [JosMart04/EquipoA_ErnestoInvestingAI](https://github.com/JosMart04/EquipoA_ErnestoInvestingAI) (trabajo del Equipo A, IHC 2026-II, UNMSM), publicada bajo la misma licencia CC BY 4.0 con atribución al equipo original y al material base de Ernesto D. Cancho-Rodríguez. La evaluación de qué es real y qué es simulado está en la carpeta de informes del curso (Tema 13).
 
 ---
 
@@ -123,8 +127,8 @@ Cada módulo sigue el mismo patrón: `EIA.modulo({ id, cargar, pintar })`. Las f
 **Requisitos:** un navegador moderno (Chrome o Edge para la voz) y, para servirlo en local, Python 3 o cualquier servidor estático.
 
 ```bash
-git clone https://github.com/JosMart04/EquipoA_ErnestoInvestingAI.git
-cd EquipoA_ErnestoInvestingAI
+git clone https://github.com/mbaernestocr-tech/ernesto-investing-ai-equipo-a.git
+cd ernesto-investing-ai-equipo-a
 python -m http.server 8000
 ```
 
